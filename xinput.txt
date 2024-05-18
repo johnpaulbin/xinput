@@ -1,3 +1,6 @@
+--@author sparky
+--@shared
+
 local listener = class("listener")
 local axislistener = class("axislistener",listener)
 local triggerlistener = class("triggerlistener",listener)
